@@ -1,1 +1,1 @@
-# Design-Simulate-Light-Dimming-and-Motor-Speed-Regulation-System-Using-Power-Semiconductor-Devices.
+# Design-Simulate-Light-Dimming-and-Motor-Speed-Regulation-System-Using-Power-Semiconductor-Devices. 
